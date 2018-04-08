@@ -1,0 +1,22 @@
+{
+  "name": "matriks-lite-cli",
+  "version": "1.0.0",
+  "description": "轻量版 matriks cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiqiuyao/matriks-lite-cli.git"
+  },
+  "keywords": [
+    "SCAFFOLDING TOOL"
+  ],
+  "author": "Yao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhiqiuyao/matriks-lite-cli/issues"
+  },
+  "homepage": "https://github.com/zhiqiuyao/matriks-lite-cli#readme"
+}
